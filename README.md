@@ -1,10 +1,14 @@
 # Made with Mern Stack
 
 #Installation
-git clone https://github.com/aa0965/nayastudio.git
-cd nayastudio
-npm install
-npm run dev
+git clone https://github.com/aa0965/nayastudio.git.
+
+cd nayastudio.
+npm install.
+cd client .
+nom install.
+Got to root directory and run 'npm run dev'
+
 
 Then, open http://localhost:3000 in the browser.
 
