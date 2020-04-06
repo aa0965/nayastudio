@@ -1,1 +1,2 @@
 # nayastudio
+INSTALLATION
