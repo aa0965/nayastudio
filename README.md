@@ -1,7 +1,7 @@
 # Made with Mern Stack
 
 #Installation
-git clone https://github.com/Lullabot/react_form.git
+git clone https://github.com/aa0965/nayastudio.git
 cd nayastudio
 npm install
 npm run dev
